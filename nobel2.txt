@@ -1,0 +1,70 @@
+year: 1901
+prize: chemistry
+name: Jacobus H. van 't Hoff
+longname: Jacobus Henricus van 't Hoff
+gender: male
+photo: http://nobelprize.org/chemistry/laureates/1901/hoff.jpg
+country: the Netherlands
+affiliation: Berlin University, Berlin, Germany
+birthyear: 1852
+deathyear: 1911
+biography: http://nobelprize.org/chemistry/laureates/1901/hoff-bio.html
+lecture: http://nobelprize.org/chemistry/laureates/1901/hoff-lecture.html
+
+year: 1901
+prize: literature
+name: Sully Prudhomme
+longname: Sully Prudhomme (pen-name of René François Armand Prudhomme)
+gender: male
+photo: http://nobelprize.org/literature/laureates/1901/prudhomme.jpg
+country: France
+birthyear: 1839
+deathyear: 1907
+biography: http://nobelprize.org/literature/laureates/1901/prudhomme-bio.html
+
+year: 1901
+prize: medicine
+name: Emil von Behring
+longname: Emil Adolf von Behring
+gender: male
+photo: http://nobelprize.org/medicine/laureates/1901/behring.jpg
+country: Germany
+affiliation: Marburg University, Marburg, Germany
+birthyear: 1854
+deathyear: 1917
+biography: http://nobelprize.org/medicine/laureates/1901/behring-bio.html
+lecture: http://nobelprize.org/medicine/laureates/1901/behring-lecture.html
+
+year: 1901
+prize: peace
+name: Henry Dunant
+longname: Jean Henry Dunant
+gender: male
+photo: http://nobelprize.org/peace/laureates/1901/dunant.jpg
+country: Switzerland
+birthyear: 1828
+deathyear: 1910
+biography: http://nobelprize.org/peace/laureates/1901/dunant-bio.html
+
+year: 1901
+prize: peace
+name: Frédéric Passy
+longname: Frédéric Passy
+gender: male
+photo: http://nobelprize.org/peace/laureates/1901/passy.jpg
+country: France
+birthyear: 1822
+deathyear: 1912
+biography: http://nobelprize.org/peace/laureates/1901/passy-bio.html
+
+year: 1901
+prize: physics
+name: Wilhelm Conrad Röntgen
+longname: Wilhelm Conrad Röntgen
+gender: male
+photo: http://nobelprize.org/physics/laureates/1901/rontgen.jpg
+country: Germany
+affiliation: Munich University, Munich, Germany
+birthyear: 1845
+deathyear: 1923
+biography: http://nobelprize.org/physics/laureates/1901/rontgen-bio.html
